@@ -1,0 +1,29 @@
+h1 {
+    color: #ac0d0d;
+}
+
+h2 {
+    color: #ce1f6a;
+}
+
+h3 {
+    color: orange;
+}
+
+body {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.menu {
+    list-style: none;
+    display: block;
+  }
+
+.menu-parca{
+    display: inline;
+    position: relative;
+  }
+
+.ortala {
+    text-align: center;
+  }
